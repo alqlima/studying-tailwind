@@ -5,7 +5,9 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: { 'arial': 'Arial' }
+    },
   },
   variants: {},
   plugins: [],
