@@ -6,7 +6,8 @@ module.exports = {
   purge: [],
   theme: {
     extend: {
-      fontFamily: { 'arial': 'Arial' }
+      fontFamily: { 'arial': 'Arial' },
+      fontSize: { '12xl': '8rem' }
     },
   },
   variants: {},
